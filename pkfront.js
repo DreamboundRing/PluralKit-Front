@@ -1,4 +1,4 @@
-let sysid = "exmpl";
+let sysid = "datef";
 let element = document.getElementById("front");
 
 fetch(`https://api.pluralkit.me/v2/systems/${sysid}/fronters`)
